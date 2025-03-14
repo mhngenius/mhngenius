@@ -1,87 +1,35 @@
-<h1>Hi, I'm Mahan! 👋</h1>
-<h2>Front-End Developer in the Making 💻</h2>
-<p>I'm currently learning and building cool stuff while leveling up my skills! 🚀</p>
+# 👋 Hi, I'm Mahan!
 
-<h3>What I'm Working On ✨</h3>
-<ul>
-  <li>Getting better at <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong> every day.</li>
-  <li>Exploring modern front-end frameworks like <strong>React</strong> and having fun with it!</li>
-  <li>Learning how to make websites look awesome on all devices (responsive design is hard but exciting!). 📱</li>
-  <li>Getting comfortable with <strong>Git</strong> and <strong>GitHub</strong> (still figuring out some commands 😅).</li>
-  <li>Diving into <strong>UI/UX principles</strong> to make things not just work but also look good. 🌐</li>
-  <li>Experimenting with build tools like <strong>Webpack</strong> and package managers like <strong>npm/yarn</strong>. 🛠️</li>
-  <li>Starting to explore <strong>databases</strong> like <strong>Firebase</strong>, <strong>MySQL</strong>, and <strong>MongoDB</strong>. 🗄️</li>
-  <li>Always learning and trying to keep up with the fast-paced world of web development. 📚</li>
-</ul>
+- 🚀 Front-End Developer and Tech Enthusiast
+- 🌱 Currently learning and improving my skills in React, JavaScript, and UI/UX Design
+- 📫 How to reach me: [Email](mailto:gnusmhn@gmail.com) | [GitHub](https://github.com/mhngenius)
 
-<h3>Skills and Tools (I'm currently using or required) 🛠️</h3>
+## 🛠 Skills and Expertise
 
-<table>
-  <tr>
-    <th>Category</th>
-    <th>Skills/Tools</th>
-  </tr>
-  <tr>
-    <td>🌐 <strong>Languages</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="20"/> HTML,
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="20"/> CSS,
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20"/> JavaScript,
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="20"/> TypeScript
-    </td>
-  </tr>
-  <tr>
-    <td>⚙️ <strong>Frameworks</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="20"/> React,
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="20"/> Next.js,
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="20"/> Tailwind CSS,
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="20"/> Bootstrap
-    </td>
-  </tr>
-  <tr>
-    <td>🛠️ <strong>Tools</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="20"/> Git,
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20"/> GitHub,
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="20"/> VS Code,
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" width="20"/> Webpack,
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="20"/> npm/yarn,
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="20"/> Figma
-    </td>
-  </tr>
-  <tr>
-    <td>🧪 <strong>Testing</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="20"/> Jest,
-      <img src="https://raw.githubusercontent.com/testing-library/react-testing-library/main/other/goat.png" alt="React Testing Library" width="20"/> React Testing Library
-    </td>
-  </tr>
-  <tr>
-    <td>🗄️ <strong>Databases</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="20"/> Firebase,
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="20"/> MySQL,
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="20"/> MongoDB
-    </td>
-  </tr>
-  <tr>
-    <td>🎨 <strong>Other</strong></td>
-    <td>
-      📱 Responsive Design, 🎨 UI/UX Principles, 🔗 REST APIs,
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="20"/> GraphQL
-    </td>
-  </tr>
-</table>
+| Category          | Skills/Tools                                                                 |
+|-------------------|------------------------------------------------------------------------------|
+| **Languages** 🌐  | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
+| **Frameworks** ⚙️ | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) |
+| **Tools** 🛠️      | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black) ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) |
+| **Testing** 🧪    | ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) ![React Testing Library](https://img.shields.io/badge/-React_Testing_Library-FF6F00?logo=testing-library&logoColor=white) |
+| **Databases** 🗄️  | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
+| **Other** 🎨      | ![Responsive Design](https://img.shields.io/badge/-Responsive_Design-FF6F00?logo=responsive-design&logoColor=white) ![UI/UX Principles](https://img.shields.io/badge/-UI/UX_Principles-FF6F00?logo=ui-ux&logoColor=white) ![REST APIs](https://img.shields.io/badge/-REST_APIs-FF6F00?logo=rest-api&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white) |
 
-<h3>Projects I'm Building 🚀</h3>
-<ul>
-  <li>Working on some small projects to practice my skills (will share soon!).</li>
-  <li>Experimenting with cool ideas and learning as I go.</li>
-</ul>
+## 📊 My GitHub Stats
 
-<h3>Let's Connect! 📬</h3>
-<ul>
-  <li><strong>GitHub:</strong> <a href="https://github.com/mhngenius">mhngenius</a></li>
-  <li><strong>Email:</strong> gnusmhn@gmail.com</li>
-</ul>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhngenius&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhngenius&layout=compact&theme=radical)
+
+## 📂 My Popular Projects
+
+- [Project 1](https://github.com/mhngenius/project-1)
+- [Project 2](https://github.com/mhngenius/project-2)
+- [Project 3](https://github.com/mhngenius/project-3)
+
+## 🌐 Social Media
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/mhngenius)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:gnusmhn@gmail.com)
+
+---
