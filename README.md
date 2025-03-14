@@ -14,7 +14,7 @@
   <li>Always learning and trying to keep up with the fast-paced world of web development. 📚</li>
 </ul>
 
-<h3>Skills and Tools 🛠️</h3>
+<h3>Skills and Tools I'm Using 🛠️</h3>
 
 <table>
   <tr>
@@ -35,7 +35,7 @@
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="20"/> React,
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="20"/> Next.js,
-      <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo.svg" alt="Tailwind CSS" width="20"/> Tailwind CSS,
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="20"/> Tailwind CSS,
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="20"/> Bootstrap
     </td>
   </tr>
