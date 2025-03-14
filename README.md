@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mahan!
 
 - 🚀 Front-End Developer and Tech Enthusiast
-- 🌱 Currently learning and improving my skills in React, JavaScript, and UI/UX Design
+- 🌱 Currently learning and improving my skills in JavaScript, React and UI/UX Design
 - 📫 How to reach me: [Email](mailto:gnusmhn@gmail.com) | [GitHub](https://github.com/mhngenius)
 
 ## 🛠 Skills and Expertise
@@ -23,9 +23,8 @@
 
 ## 📂 My Popular Projects
 
-- [Project 1](https://github.com/mhngenius/project-1)
-- [Project 2](https://github.com/mhngenius/project-2)
-- [Project 3](https://github.com/mhngenius/project-3)
+- Working on some small projects to practice my skills (will share soon!).
+- Experimenting with cool ideas and learning as I go.
 
 ## 🌐 Social Media
 
