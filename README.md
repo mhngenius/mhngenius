@@ -1,19 +1,20 @@
 <h1>Hi, I'm Mahan! 👋</h1>
-<h2>Front-End Developer 💻</h2>
-<p> I'm currently working  🚀</p>
+<h2>Front-End Developer in the Making 💻</h2>
+<p>I'm currently learning and building cool stuff while leveling up my skills! 🚀</p>
 
-<h3>Key Highlights ✨</h3>
+<h3>What I'm Working On ✨</h3>
 <ul>
-  <li>Proficient in <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, and modern front-end frameworks like <strong>React</strong>.</li>
-  <li>Experienced in building <strong>responsive</strong> and <strong>mobile-first</strong> web designs. 📱</li>
-  <li>Skilled in version control systems like <strong>Git</strong> and collaborative platforms like <strong>GitHub</strong>.</li>
-  <li>Strong understanding of <strong>UI/UX principles</strong> and <strong>cross-browser compatibility</strong>. 🌐</li>
-  <li>Familiar with build tools like <strong>Webpack</strong> and package managers like <strong>npm/yarn</strong>. 🛠️</li>
-  <li>Basic knowledge of <strong>database systems</strong> like <strong>Firebase</strong>, <strong>MySQL</strong>, and <strong>MongoDB</strong>. 🗄️</li>
-  <li>Continuously learning and staying updated with the latest web development trends. 📚</li>
+  <li>Getting better at <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong> every day.</li>
+  <li>Exploring modern front-end frameworks like <strong>React</strong> and having fun with it!</li>
+  <li>Learning how to make websites look awesome on all devices (responsive design is hard but exciting!). 📱</li>
+  <li>Getting comfortable with <strong>Git</strong> and <strong>GitHub</strong> (still figuring out some commands 😅).</li>
+  <li>Diving into <strong>UI/UX principles</strong> to make things not just work but also look good. 🌐</li>
+  <li>Experimenting with build tools like <strong>Webpack</strong> and package managers like <strong>npm/yarn</strong>. 🛠️</li>
+  <li>Starting to explore <strong>databases</strong> like <strong>Firebase</strong>, <strong>MySQL</strong>, and <strong>MongoDB</strong>. 🗄️</li>
+  <li>Always learning and trying to keep up with the fast-paced world of web development. 📚</li>
 </ul>
 
-<h3>Skills and Tools 🛠️</h3>
+<h3>Skills and Tools I'm Using 🛠️</h3>
 
 <table>
   <tr>
@@ -73,12 +74,14 @@
   </tr>
 </table>
 
-
-<h3>Projects 🚀</h3>
-
-
-<h3>Contact 📬</h3>
+<h3>Projects I'm Building 🚀</h3>
 <ul>
-  <li><strong>GitHub:</strong> <a href="https://github.com/mhngenius">Your GitHub Profile</a></li>
-  <li><strong>Email:</strong>gnusmhn@gmail.com</li>
+  <li>Working on some small projects to practice my skills (will share soon!).</li>
+  <li>Experimenting with cool ideas and learning as I go.</li>
+</ul>
+
+<h3>Let's Connect! 📬</h3>
+<ul>
+  <li><strong>GitHub:</strong> <a href="https://github.com/mhngenius">mhngenius</a></li>
+  <li><strong>Email:</strong> gnusmhn@gmail.com</li>
 </ul>
