@@ -46,16 +46,10 @@
 </table>
 
 <h3>Projects 🚀</h3>
-<ul>
-  <li><a href="link">Project Name 1</a> - A brief description of the project and your role.</li>
-  <li><a href="link">Project Name 2</a> - A brief description of the project and your role.</li>
-  <li><a href="link">Project Name 3</a> - A brief description of the project and your role.</li>
-</ul>
+
 
 <h3>Contact 📬</h3>
 <ul>
-  <li><strong>GitHub:</strong> <a href="https://github.com/yourusername">Your GitHub Profile</a></li>
-  <li><strong>Email:</strong> youremail@example.com</li>
-  <li><strong>Portfolio:</strong> <a href="https://yourportfolio.com">Your Portfolio Link</a></li>
+  <li><strong>GitHub:</strong> <a href="https://github.com/mhngenius">Your GitHub Profile</a></li>
+  <li><strong>Email:</strong>gnusmhn@gmail.com</li>
 </ul>
-Portfolio: Your Portfolio Link
