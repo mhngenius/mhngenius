@@ -4,7 +4,7 @@
 - 🌱 Currently learning and improving my skills in JavaScript, React and UI/UX Design
 - 📫 How to reach me: [Email](mailto:gnusmhn@gmail.com) | [GitHub](https://github.com/mhngenius)
 
-## 🛠 Skills and Expertise
+## 🛠 Skills and tools
 
 | Category          | Skills/Tools                                                                 |
 |-------------------|------------------------------------------------------------------------------|
@@ -21,7 +21,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhngenius&layout=compact&theme=radical)
 
-## 📂 My Popular Projects
+## 📂 Projects
 
 - Working on some small projects to practice my skills (will share soon!).
 - Experimenting with cool ideas and learning as I go.
