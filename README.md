@@ -16,6 +16,8 @@
 <h3>Skills and Tools 🛠️</h3>
 <h3>Skills and Tools 🛠️</h3>
 
+<h3>Skills and Tools 🛠️</h3>
+
 <table>
   <tr>
     <th>Category</th>
@@ -24,52 +26,52 @@
   <tr>
     <td>🌐 <strong>Languages</strong></td>
     <td>
-      <img src="https://simpleicons.org/icons/html5.svg" alt="HTML" width="20"/> HTML,
-      <img src="https://simpleicons.org/icons/css3.svg" alt="CSS" width="20"/> CSS,
-      <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="20"/> JavaScript,
-      <img src="https://simpleicons.org/icons/typescript.svg" alt="TypeScript" width="20"/> TypeScript
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="20"/> HTML,
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="20"/> CSS,
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20"/> JavaScript,
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="20"/> TypeScript
     </td>
   </tr>
   <tr>
     <td>⚙️ <strong>Frameworks</strong></td>
     <td>
-      <img src="https://simpleicons.org/icons/react.svg" alt="React" width="20"/> React,
-      <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="Next.js" width="20"/> Next.js,
-      <img src="https://simpleicons.org/icons/tailwindcss.svg" alt="Tailwind CSS" width="20"/> Tailwind CSS,
-      <img src="https://simpleicons.org/icons/bootstrap.svg" alt="Bootstrap" width="20"/> Bootstrap
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="20"/> React,
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="20"/> Next.js,
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="20"/> Tailwind CSS,
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="20"/> Bootstrap
     </td>
   </tr>
   <tr>
     <td>🛠️ <strong>Tools</strong></td>
     <td>
-      <img src="https://simpleicons.org/icons/git.svg" alt="Git" width="20"/> Git,
-      <img src="https://simpleicons.org/icons/github.svg" alt="GitHub" width="20"/> GitHub,
-      <img src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VS Code" width="20"/> VS Code,
-      <img src="https://simpleicons.org/icons/webpack.svg" alt="Webpack" width="20"/> Webpack,
-      <img src="https://simpleicons.org/icons/npm.svg" alt="npm" width="20"/> npm/yarn,
-      <img src="https://simpleicons.org/icons/figma.svg" alt="Figma" width="20"/> Figma
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="20"/> Git,
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20"/> GitHub,
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="20"/> VS Code,
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" width="20"/> Webpack,
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="20"/> npm/yarn,
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="20"/> Figma
     </td>
   </tr>
   <tr>
     <td>🧪 <strong>Testing</strong></td>
     <td>
-      <img src="https://simpleicons.org/icons/jest.svg" alt="Jest" width="20"/> Jest,
-      <img src="https://simpleicons.org/icons/testinglibrary.svg" alt="React Testing Library" width="20"/> React Testing Library
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="20"/> Jest,
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/testinglibrary/testinglibrary-original.svg" alt="React Testing Library" width="20"/> React Testing Library
     </td>
   </tr>
   <tr>
     <td>🗄️ <strong>Databases</strong></td>
     <td>
-      <img src="https://simpleicons.org/icons/firebase.svg" alt="Firebase" width="20"/> Firebase,
-      <img src="https://simpleicons.org/icons/mysql.svg" alt="MySQL" width="20"/> MySQL,
-      <img src="https://simpleicons.org/icons/mongodb.svg" alt="MongoDB" width="20"/> MongoDB
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="20"/> Firebase,
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="20"/> MySQL,
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="20"/> MongoDB
     </td>
   </tr>
   <tr>
     <td>🎨 <strong>Other</strong></td>
     <td>
       📱 Responsive Design, 🎨 UI/UX Principles, 🔗 REST APIs,
-      <img src="https://simpleicons.org/icons/graphql.svg" alt="GraphQL" width="20"/> GraphQL
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="20"/> GraphQL
     </td>
   </tr>
 </table>
