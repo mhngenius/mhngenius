@@ -14,7 +14,7 @@
   <li>Always learning and trying to keep up with the fast-paced world of web development. 📚</li>
 </ul>
 
-<h3>Skills and Tools I'm Using 🛠️</h3>
+<h3>Skills and Tools (I'm currently using or required) 🛠️</h3>
 
 <table>
   <tr>
