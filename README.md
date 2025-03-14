@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mahan! 👋</h1>
 <h2>Front-End Developer 💻</h2>
-<p>Passionate about building responsive, user-friendly, and visually appealing web applications. Experienced in modern front-end technologies and frameworks. Always eager to learn and contribute to innovative projects. 🚀</p>
+<p> I'm currently working  🚀</p>
 
 <h3>Key Highlights ✨</h3>
 <ul>
@@ -12,9 +12,6 @@
   <li>Basic knowledge of <strong>database systems</strong> like <strong>Firebase</strong>, <strong>MySQL</strong>, and <strong>MongoDB</strong>. 🗄️</li>
   <li>Continuously learning and staying updated with the latest web development trends. 📚</li>
 </ul>
-
-<h3>Skills and Tools 🛠️</h3>
-<h3>Skills and Tools 🛠️</h3>
 
 <h3>Skills and Tools 🛠️</h3>
 
@@ -56,7 +53,7 @@
     <td>🧪 <strong>Testing</strong></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="20"/> Jest,
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/testinglibrary/testinglibrary-original.svg" alt="React Testing Library" width="20"/> React Testing Library
+      <img src="https://raw.githubusercontent.com/testing-library/react-testing-library/main/other/goat.png" alt="React Testing Library" width="20"/> React Testing Library
     </td>
   </tr>
   <tr>
