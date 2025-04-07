@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mahan!
 
-- 🚀 Front-End Developer and Tech Enthusiast
+- 🚀 Mainly Front-End Developer and Tech Enthusiast
 - 🌱 Currently learning and improving my skills in JavaScript, React, and UI/UX Design
 - 📫 How to reach me: [Email](mailto:gnusmhn@gmail.com) | [GitHub](https://github.com/mhngenius)
 
