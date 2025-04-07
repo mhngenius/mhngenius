@@ -7,7 +7,6 @@
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:gnusmhn@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/mhngenius)
-[![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-181717?style=flat&logo=GitHub&logoColor=white)](https://mhngenius.github.io)
 
 ---
 
