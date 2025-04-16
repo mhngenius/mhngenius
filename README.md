@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mahan!
 
-- 🚀 Front-End Developer | Tech Enthusiast  
+- 🚀 Mainly Front-End Developer | Tech Enthusiast  
 - 🌱 Currently learning and improving my skills in JavaScript, React, and UI/UX Design  
 
 ## 📫 Contact
