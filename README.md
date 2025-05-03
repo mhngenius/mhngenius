@@ -29,12 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Mahan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhngenius&show_icons=true&theme=radical)
-
----
-
 ## 🔝 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhngenius&layout=compact&theme=radical)
