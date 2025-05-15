@@ -27,8 +27,7 @@
 |-------------------|------------------------------------------------------------------------------|
 | **Languages** 🐍  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20"/> Python |
 | **Libraries** 📚  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="20"/> NumPy &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="20"/> Pandas &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="20"/> TensorFlow &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="20"/> PyTorch |
-| **Tools** ⚙️      | <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" alt="Jupyter"/> &nbsp; <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=Google%20Colab&logoColor=white" alt="Google Colab"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="20"/> |
-
+| **Tools** ⚙️      | <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" alt="Jupyter"/> &nbsp; <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=Google%20Colab&logoColor=white" alt="Google Colab"/> &nbsp; <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white" alt="Kaggle"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="20"/>
 
 ---
 
