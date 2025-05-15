@@ -1,16 +1,18 @@
-# 👋 Hi, I'm Mahan!
+# 👋 Hi, I'm Mahan!  
 
-- 🚀 Mainly Front-End Developer | Tech Enthusiast  
-- 🌱 Currently learning and improving my skills in JavaScript, React, and UI/UX Design  
+- 🚀 Mainly Front-End Developer | Tech & AI Enthusiast  
+- 🌱 Currently learning and improving my skills in JavaScript, React, UI/UX Design, Python, and Machine Learning  
 
-## 📫 Contact
+## 📫 Contact  
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:gnusmhn@gmail.com)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/mhnmhrbi)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/mhnmhrbi)  
 
 ---
 
-## 🛠 Skills & Tools
+## 🛠 Skills & Tools  
+
+### 💻 Front-End Development  
 
 | Category          | Skills/Tools                                                                 |
 |-------------------|------------------------------------------------------------------------------|
@@ -19,22 +21,32 @@
 | **Tools** 🛠️      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="20"/> VS Code &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20"/> GitHub |
 | **Databases** 🗄️  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="20"/> SQL |
 
+### 🤖 AI & Python Development  
+
+| Category          | Skills/Tools                                                                 |
+|-------------------|------------------------------------------------------------------------------|
+| **Languages** 🐍  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20"/> Python |
+| **Libraries** 📚  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="20"/> NumPy &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="20"/> Pandas &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="20"/> TensorFlow &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="20"/> PyTorch |
+| **Tools** ⚙️      | Jupyter Notebook, Google Colab, VS Code |
+
 ---
 
-## 📌 Currently Working On
+## 📌 Currently Working On  
 
-- Personal projects with **React**
-- Improving **UI/UX** skills on real-world layouts
-- Learning more about **clean code** and **best practices**
+- Personal projects with **React**  
+- Improving **UI/UX** skills on real-world layouts  
+- Learning more about **clean code** and **best practices**  
+- Working on **Python projects** involving **Machine Learning** and **Deep Learning**  
+- Exploring **data analysis** and model building with **NumPy, Pandas, TensorFlow**, and **PyTorch**
 
 ---
 
-## 🔝 Most Used Languages
+## 🔝 Most Used Languages  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhnmhrbi&layout=compact&theme=radical)
 
 ---
 
-## ✨ Fun Fact
+## ✨ Fun Fact  
 
-> I love turning ideas into clean, responsive web experiences.
+> I love turning ideas into clean, responsive web experiences — and now, also into intelligent models with Python.
