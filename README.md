@@ -29,7 +29,7 @@
 ### 🦀 Rust Development  
 | Category          | Skills/Tools                                                                 | 
 |-------------------|------------------------------------------------------------------------------| 
-| **Languages** ⚡   | ![Rust](https://upload.wikimedia.org/wikipedia/commons/0/0a/Rust_programming_language_black_logo.svg) Rust | 
+| **Languages** ⚡   | ![Rust](https://raw.githubusercontent.com/rust-lang/logos/master/rust-logo-512x512.png) Rust | 
 | **Tools** 🛠️      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="20"/> VS Code &nbsp; <img src="https://img.shields.io/badge/-Command%20Prompt-000000?style=flat&logo=windows-terminal&logoColor=white" alt="Command Prompt"/> |  
 
 ---  
