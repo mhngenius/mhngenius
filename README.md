@@ -29,8 +29,8 @@
 ### 🦀 Rust Development  
 | Category          | Skills/Tools                                                                 | 
 |-------------------|------------------------------------------------------------------------------| 
-| **Languages** ⚡   | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="20"/> Rust | 
-| **Tools** 🛠️      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="20"/> VS Code &nbsp; <img src="https://img.icons8.com/ios-filled/20/000000/command-prompt.png" alt="CMD" width="20"/> Command Prompt |  
+| **Languages** ⚡   | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width="20"/> Rust | 
+| **Tools** 🛠️      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="20"/> VS Code &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Command_Prompt_icon_%28Windows%29.png" alt="CMD" width="20"/> Command Prompt |  
 
 ---  
 
@@ -40,6 +40,7 @@
 - Learning more about **clean code** and **best practices**   
 - Working on **Python projects** involving **Machine Learning** and **Deep Learning**   
 - Exploring **data analysis** and model building with **NumPy, Pandas, TensorFlow**, and **PyTorch**  
+- Practicing and building projects with **Rust Development**  
 
 ---  
 
