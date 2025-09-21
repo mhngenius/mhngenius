@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mahan!    
 - 🚀 Mainly Front-End Developer | Tech & AI Enthusiast   
-- 🌱 Currently learning and improving my skills in JavaScript, React, UI/UX Design, Python, and Machine Learning    
+- 🌱 Currently learning and improving my skills in React, UI/UX Design, Python, Machine Learning, and Rust    
 
 ## 📫 Contact    
 
