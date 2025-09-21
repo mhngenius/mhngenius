@@ -29,8 +29,8 @@
 ### 🦀 Rust Development  
 | Category          | Skills/Tools                                                                 | 
 |-------------------|------------------------------------------------------------------------------| 
-| **Languages** ⚡   | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width="20"/> Rust | 
-| **Tools** 🛠️      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="20"/> VS Code &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Command_Prompt_icon_%28Windows%29.png" alt="CMD" width="20"/> Command Prompt |  
+| **Languages** ⚡   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" width="20"/> Rust | 
+| **Tools** 🛠️      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="20"/> VS Code &nbsp; <img src="https://cdn.simpleicons.org/windowsterminal/000000" alt="CMD" width="20"/> Command Prompt |  
 
 ---  
 
