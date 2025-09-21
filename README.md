@@ -14,23 +14,23 @@
 ### 💻 Front-End Development    
 | Category          | Skills/Tools                                                                 | 
 |-------------------|------------------------------------------------------------------------------| 
-| **Languages** 🌐  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="20"/> HTML &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="20"/> CSS &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20"/> JavaScript | 
+| **Languages** 🌐  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="20"/> HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="20"/> CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20"/> JavaScript | 
 | **Frameworks** ⚙️ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="20"/> React | 
-| **Tools** 🛠️      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="20"/> VS Code &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20"/> GitHub | 
+| **Tools** 🛠️      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="20"/> VS Code <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20"/> GitHub | 
 | **Databases** 🗄️  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="20"/> SQL |  
 
 ### 🤖 AI & Python Development    
 | Category          | Skills/Tools                                                                 | 
 |-------------------|------------------------------------------------------------------------------| 
 | **Languages** 🐍  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20"/> Python | 
-| **Libraries** 📚  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="20"/> NumPy &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="20"/> Pandas &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="20"/> TensorFlow &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="20"/> PyTorch | 
-| **Tools** ⚙️      | <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" alt="Jupyter"/> &nbsp; <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=Google%20Colab&logoColor=white" alt="Google%20Colab"/> &nbsp; <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white" alt="Kaggle"/> &nbsp; <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=PyCharm&logoColor=white" alt="PyCharm"/> |  
+| **Libraries** 📚  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="20"/> NumPy <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="20"/> Pandas <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="20"/> TensorFlow <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="20"/> PyTorch | 
+| **Tools** ⚙️      | <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" height="20"/> <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab" height="20"/> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" height="20"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm" height="20"/> |  
 
 ### 🦀 Rust Development  
 | Category          | Skills/Tools                                                                 | 
 |-------------------|------------------------------------------------------------------------------| 
-| **Languages** ⚡   | ![Rust](https://raw.githubusercontent.com/rust-lang/logos/master/rust-logo-512x512.png) Rust | 
-| **Tools** 🛠️      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="20"/> VS Code &nbsp; <img src="https://img.shields.io/badge/-Command%20Prompt-000000?style=flat&logo=windows-terminal&logoColor=white" alt="Command Prompt"/> |  
+| **Languages** ⚡   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" width="20"/> Rust | 
+| **Tools** 🛠️      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="20"/> VS Code <img src="https://img.shields.io/badge/CMD-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="CMD" height="20"/> Command Prompt |  
 
 ---  
 
@@ -52,4 +52,4 @@
 ## ✨ Fun Fact    
 > I love turning ideas into clean, responsive web experiences — and now, also into intelligent models with Python.  
 
-> Recently, I've also started learning **Rust Development** to improve my coding skills and explore system-level programming.
+> Recently, I've also started learning **Rust and Python Development** to improve my coding skills and explore system-level programming.
