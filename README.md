@@ -52,4 +52,4 @@
 ## ✨ Fun Fact    
 > I love turning ideas into clean, responsive web experiences — and now, also into intelligent models with Python.  
 
-> Recently, I’ve also started learning **Rust Development** to improve my coding skills and explore system-level programming.
+> Recently, I’ve also started learning **Rust and Python Development** to improve my coding skills and explore system-level programming.
