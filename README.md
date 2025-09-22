@@ -29,7 +29,8 @@
 ### 🦀 Rust Development  
 | Category          | Skills/Tools                                                                 | 
 |-------------------|------------------------------------------------------------------------------| 
-| **Languages** ⚡   | <img src="./rust-logo-512x512.png" alt="Rust" width="20"/> Rust | 
+| **Languages** ⚡   | <img src="https://raw.githubusercontent.com/mhngenius/mhngenius/main/rust-logo-512x512.png" alt="Rust" width="20"/> Rust
+ | 
 | **Tools** 🛠️      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="20"/> VS Code <img src="https://img.shields.io/badge/CMD-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="CMD" height="20"/> Command Prompt |  
 
 ---  
