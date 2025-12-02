@@ -45,7 +45,7 @@
 ---  
 
 ## 🔝 Most Used Languages    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhngenius&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhngenius&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ce09ec&text_color=b3b1ad&hide=html,css)  
 
 ---  
 
