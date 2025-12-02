@@ -36,20 +36,22 @@
 
 ---
 
-## 🔝 Most Used Languages  
-> بدون مخفی‌کردن HTML & CSS — کاملاً درست نمایش داده می‌شود 👇  
+## 🔥 GitHub Stats & Most Used Languages  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhngenius&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ce09ec&text_color=b3b1ad)
+<p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=mhngenius&show_icons=true&theme=radical&hide_border=true" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhngenius&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 
 ## 📌 Currently Working On  
-- Personal front-end projects with **React**
-- Enhancing **UI/UX** skills with real-world layouts
-- Writing **clean code** following best practices
-- **Machine Learning & Deep Learning** projects with Python
+- Front-End projects using **React**
+- Improving **UI/UX** in practical layouts
+- **Clean code** and best development practices
+- Python & **Machine Learning / Deep Learning** projects
 - Working with **NumPy, Pandas, TensorFlow, PyTorch**
-- Exploring low-level programming using **Rust**
+- Exploring low-level development with **Rust**
 
 ---
 
